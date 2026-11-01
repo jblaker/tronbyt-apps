@@ -1,0 +1,16 @@
+---
+id: torbox-status
+name: TorBox Status
+summary: Monitor TorBox status
+desc: Shows the current status of TorBox services from status.torbox.app and lists any services that are degraded, down or under maintenance.
+author: Jeremy Blaker
+fileName: torbox_status.star
+packageName: torboxstatus
+recommendedInterval: 5
+supports64x64: true
+category: utilities
+tags:
+  - tracking
+  - tech-support
+published: '2026-11-01T00:00:00Z'
+updated: '2026-11-01T00:00:00Z'
